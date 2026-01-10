@@ -1,6 +1,7 @@
+<div align="center">
 # TEST REPORT – WEEK 1
 ## Software Testing
-
+</div>
 
 ## 1. Thông tin sinh viên
 - Họ và tên: Phạm Khánh Linh
