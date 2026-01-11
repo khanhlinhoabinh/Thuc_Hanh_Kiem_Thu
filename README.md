@@ -47,7 +47,7 @@ Người dùng cần lựa chọn các khối màu khác biệt so với các kh
 
 
 ## 7. Kết quả kiểm thử (Test Result)
-- Điểm đạt được: **…%**
+- Điểm đạt được: 7130
 - Trạng thái: PASS
 
 
